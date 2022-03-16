@@ -1,3 +1,4 @@
-# fake json db 
+# fake db with typicode
+This is for testing api calls using typicode creating a fake db
 
-Using a fake db to try out api calls on a project
+https://my-json-server.typicode.com/
