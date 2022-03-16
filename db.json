@@ -29,6 +29,26 @@
         "price": 59,
         "image": "https://img01.ztat.net/article/spp-media-p1/1c9affa2d74b37a9becaf65fde225e58/dbc061abb6e943c29a7031d99140a021.jpg"
     }
+],
+"posts": [
+    {
+        "id": "1",
+        "name": "Name 1",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porta mi. Maecenas porta luctus libero, sed mollis mauris luctus ut. Pellentesque quam erat, condimentum in purus in, hendrerit ullamcorper ipsum. Duis dui massa, sodales quis ultrices in, vehicula id ipsum. Phasellus eget nulla id purus fringilla dapibus. Pellentesque dignissim leo ac dui consequat scelerisque. Ut finibus urna et odio efficitur pulvinar. Proin at turpis ligula.",
+        "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": "2",
+        "name": "Name 2",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porta mi. Maecenas porta luctus libero, sed mollis mauris luctus ut. Pellentesque quam erat, condimentum in purus in, hendrerit ullamcorper ipsum. Duis dui massa, sodales quis ultrices in, vehicula id ipsum. Phasellus eget nulla id purus fringilla dapibus. Pellentesque dignissim leo ac dui consequat scelerisque. Ut finibus urna et odio efficitur pulvinar. Proin at turpis ligula.",
+        "image": "https://images.pexels.com/photos/851555/pexels-photo-851555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": "3",
+        "name": "Name 3",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porta mi. Maecenas porta luctus libero, sed mollis mauris luctus ut. Pellentesque quam erat, condimentum in purus in, hendrerit ullamcorper ipsum. Duis dui massa, sodales quis ultrices in, vehicula id ipsum. Phasellus eget nulla id purus fringilla dapibus. Pellentesque dignissim leo ac dui consequat scelerisque. Ut finibus urna et odio efficitur pulvinar. Proin at turpis ligula.",
+        "image": "https://images.pexels.com/photos/324028/pexels-photo-324028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
 ]
 
 }
