@@ -1,4 +1,6 @@
-[
+
+{
+    "products": [
     {
         "id": "1",
         "name": "Adidas Superstar",
@@ -28,3 +30,5 @@
         "image": "https://img01.ztat.net/article/spp-media-p1/1c9affa2d74b37a9becaf65fde225e58/dbc061abb6e943c29a7031d99140a021.jpg"
     }
 ]
+
+}
