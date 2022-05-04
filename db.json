@@ -41,17 +41,17 @@
     },
     {
         "id": "2",
-        "name": "O.G Skeeter Rabbit",
+        "name": "Fred Berry",
         "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porta mi. Maecenas porta luctus libero, sed mollis mauris luctus ut. Pellentesque quam erat, condimentum in purus in, hendrerit ullamcorper ipsum. Duis dui massa, sodales quis ultrices in, vehicula id ipsum. Phasellus eget nulla id purus fringilla dapibus. Pellentesque dignissim leo ac dui consequat scelerisque. Ut finibus urna et odio efficitur pulvinar. Proin at turpis ligula.",
-        "steps": "Skeeter rabbit, around the world",
-        "image": "./images/web_skeet.png"
+        "steps": "The Helicopter, slow-motion",
+        "image": "./images/web_fred.png"
     },
     {
         "id": "3",
-        "name": "Tony Gogo",
+        "name": "Shabba Doo",
         "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porta mi. Maecenas porta luctus libero, sed mollis mauris luctus ut. Pellentesque quam erat, condimentum in purus in, hendrerit ullamcorper ipsum. Duis dui massa, sodales quis ultrices in, vehicula id ipsum. Phasellus eget nulla id purus fringilla dapibus. Pellentesque dignissim leo ac dui consequat scelerisque. Ut finibus urna et odio efficitur pulvinar. Proin at turpis ligula.",
-        "steps": "Keep a runnin', Supa-Fly",
-        "image": "./images/web_tony.png"
+        "steps": "Sway",
+        "image": "./images/web_shab.png"
     },
     {
         "id": "4",
