@@ -85,7 +85,7 @@
         "id": "8",
         "name": "Prince",
         "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porta mi. Maecenas porta luctus libero, sed mollis mauris luctus ut. Pellentesque quam erat, condimentum in purus in, hendrerit ullamcorper ipsum. Duis dui massa, sodales quis ultrices in, vehicula id ipsum. Phasellus eget nulla id purus fringilla dapibus. Pellentesque dignissim leo ac dui consequat scelerisque. Ut finibus urna et odio efficitur pulvinar. Proin at turpis ligula.",
-        "steps": "The Prince!",
+        "steps": "The Prince",
         "image": "./images/web_prince.png"
     },
     {
